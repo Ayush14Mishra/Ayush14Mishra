@@ -11,6 +11,7 @@ I build responsive web applications and AI-powered tools with a focus on useful 
 | Project | What it does | Technology |
 |---|---|---|
 | [KhetOS](https://github.com/Ayush14Mishra/KhetOS) | Offline-first agricultural intelligence dashboard with explainable field alerts, spray-safety guidance, multilingual support, and resilient mobile workflows. [Live demo](https://ayush14mishra.github.io/KhetOS/) | React, TypeScript, Tailwind CSS, offline-first architecture |
+| [AirShift](https://github.com/Ayush14Mishra/AirShift) | Gesture-controlled sliding puzzle with real-time hand tracking, pinch interaction, three difficulty levels, collision-aware movement, and performance tracking. | Python, OpenCV, MediaPipe, NumPy |
 | [StudyVault AI](https://github.com/Ayush14Mishra/studyvault-ai) | Local-first RAG study assistant that answers questions from uploaded PDFs and shows page-level sources. | React, FastAPI, Python, Ollama, Docker, GitHub Actions |
 | [StudyVault](https://github.com/Ayush14Mishra/StudyVault) | Full-stack student resource platform with authentication, uploads, search, filtering, and user dashboards. [Live demo](https://studyvault-platform.vercel.app/) | React, Node.js, Express, MongoDB, Cloudinary |
 | [Movie Recommendation System](https://github.com/Ayush14Mishra/Movie-Recommendation-System) | Content-based movie recommendation system using text features and cosine similarity. | Python, Pandas, scikit-learn |
