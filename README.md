@@ -1,45 +1,38 @@
 # Hi, I'm Ayush Mishra 👋
 
-### Frontend developer · AI/ML learner · Building useful, explainable products
+### Full-stack and AI developer building practical, reliable products
 
-I enjoy turning ambitious ideas into responsive interfaces that are clear enough to use and strong enough to demonstrate. I am currently preparing for **The Frontend Odyssey 2026** and deepening my foundations in React, TypeScript, accessibility, DSA, AI, and deployment.
+I build responsive web applications and AI-powered tools with a focus on useful features, clear interfaces, and maintainable code. I am currently strengthening my skills in full-stack development, machine learning, RAG systems, DSA, testing, and deployment.
 
-## Featured work
+**Open to software development and AI/ML internship opportunities.**
 
-### 🌱 [KhetOS](https://github.com/Ayush14Mishra/KhetOS)
+## Featured projects
 
-An offline-first agricultural intelligence dashboard for field-level sensor data, explainable crop alerts, spray-safety guidance, multilingual use, and unreliable connectivity.
+| Project | What it does | Technology |
+|---|---|---|
+| [KhetOS](https://github.com/Ayush14Mishra/KhetOS) | Offline-first agricultural intelligence dashboard with explainable field alerts, spray-safety guidance, multilingual support, and resilient mobile workflows. [Live demo](https://ayush14mishra.github.io/KhetOS/) | React, TypeScript, Tailwind CSS, offline-first architecture |
+| [StudyVault AI](https://github.com/Ayush14Mishra/studyvault-ai) | Local-first RAG study assistant that answers questions from uploaded PDFs and shows page-level sources. | React, FastAPI, Python, Ollama, Docker, GitHub Actions |
+| [StudyVault](https://github.com/Ayush14Mishra/StudyVault) | Full-stack student resource platform with authentication, uploads, search, filtering, and user dashboards. [Live demo](https://studyvault-platform.vercel.app/) | React, Node.js, Express, MongoDB, Cloudinary |
+| [Movie Recommendation System](https://github.com/Ayush14Mishra/Movie-Recommendation-System) | Content-based movie recommendation system using text features and cosine similarity. | Python, Pandas, scikit-learn |
 
-**React · TypeScript · Responsive UI · Offline-first · Accessibility**  
-[Live demo](https://ayush14mishra.github.io/KhetOS/)
+[![StudyVault AI verification](https://github.com/Ayush14Mishra/studyvault-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/Ayush14Mishra/studyvault-ai/actions/workflows/ci.yml)
 
-### 🚀 [Odyssey Sprintboard](https://github.com/Ayush14Mishra/Odyssey-Sprintboard)
+## Technical skills
 
-An original frontend-only command center for turning a hackathon brief into scored ideas, a 48-hour plan, an interactive task board, and an exportable submission checklist.
+- **Languages:** Python, JavaScript, TypeScript, C, C++, SQL
+- **Frontend:** React, HTML, CSS, Tailwind CSS, responsive design, accessibility
+- **Backend:** Node.js, Express, FastAPI, REST APIs, authentication
+- **AI/ML:** Pandas, scikit-learn, NLP fundamentals, RAG, local LLMs
+- **Data & tools:** MongoDB, Git, GitHub Actions, Docker, Linux
 
-**React · Vite · Local storage · Accessible UI · GitHub Pages**  
-[Live demo](https://ayush14mishra.github.io/Odyssey-Sprintboard/)
+## Currently focused on
 
-### 🎬 [Movie Recommendation System](https://github.com/Ayush14Mishra/Movie-Recommendation-System)
+- Building and deploying end-to-end full-stack applications
+- Developing grounded AI applications with retrieval and citations
+- Writing tested, maintainable code with automated verification
+- Practising data structures and algorithms consistently
 
-A content-based recommendation experiment using cosine similarity and a desktop interface to explore similar films.
-
-**Python · Machine learning · Content-based filtering**
-
-## What I'm working on
-
-- Building frontend experiences that remain useful on mobile and slow networks
-- Practising component architecture, state management, accessibility, and product storytelling
-- Learning DSA consistently in Python
-- Exploring practical AI/ML systems with transparent limitations
-
-## Tools I use
-
-`JavaScript` · `TypeScript` · `React` · `Next.js` · `HTML` · `CSS` · `Tailwind CSS` · `Python` · `Git` · `GitHub Pages`
-
-## Let's connect
+## Connect
 
 - [Portfolio](https://ayush14mishra.github.io/portfolio/)
 - [GitHub](https://github.com/Ayush14Mishra)
-
-> I use AI-assisted development tools where they help, and I keep attribution, limitations, and project ownership explicit.
