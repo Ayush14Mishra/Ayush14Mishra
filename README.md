@@ -19,7 +19,7 @@ I turn practical ideas into responsive web apps and grounded AI tools—focused 
 | ✋ [AirShift](https://github.com/Ayush14Mishra/AirShift) | A gesture-controlled sliding puzzle with real-time hand tracking, pinch input, collision-aware movement, and performance tracking. | Python · OpenCV · MediaPipe |
 | 📚 [StudyVault AI](https://github.com/Ayush14Mishra/studyvault-ai) | A local-first RAG study assistant that answers questions from PDFs with page-level citations. | React · FastAPI · Ollama · Docker |
 | 🎓 [StudyVault](https://github.com/Ayush14Mishra/StudyVault) · [Live demo](https://studyvault-platform.vercel.app/) | A full-stack student resource platform with secure uploads, search, filtering, and dashboards. | React · Node.js · Express · MongoDB |
-| 🎬 [Movie Recommendation System](https://github.com/Ayush14Mishra/Movie-Recommendation-System) | Content-based recommendations powered by text features and cosine similarity. | Python · Pandas · scikit-learn |
+| 🏋️ [FitForge](https://github.com/Ayush14Mishra/fitforge-app) | A full-stack fitness coaching platform with personalised workout plans, weekly check-ins, progress tracking, and coach messaging. | React · TypeScript · Firebase · Drizzle ORM |
 
 [![StudyVault AI verification](https://github.com/Ayush14Mishra/studyvault-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/Ayush14Mishra/studyvault-ai/actions/workflows/ci.yml)
 
